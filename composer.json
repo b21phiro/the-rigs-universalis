@@ -1,0 +1,15 @@
+{
+    "name": "phro/the-rig",
+    "autoload": {
+        "psr-4": {
+            "Phro\\TheRig\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Philip Rosenqvist",
+            "email": "philip.rosenqvist@outlook.com"
+        }
+    ],
+    "require": {}
+}
