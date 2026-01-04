@@ -5,5 +5,6 @@
     </head>
     <body>
         <h1>Welcome to My Website</h1>
+        <script src="main.js" type="module"></script>
     </body>
 </html>
